@@ -1,0 +1,111 @@
+.amf {
+  min-height: 100vh;
+  background: var(--color-bg);
+  padding-top: var(--nav-height);
+  padding-bottom: var(--space-24);
+}
+
+.amf__inner {
+  max-width: 720px;
+  margin-inline: auto;
+  padding: var(--space-16) var(--space-12) var(--space-16);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-12);
+  background: var(--color-card);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-md);
+}
+
+/* ─── Header ────────────────────────────────────────────────── */
+.amf__header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-bottom: var(--space-8);
+  border-bottom: 1px solid var(--color-separator);
+}
+
+.amf__eyebrow {
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.amf__headline {
+  font-family: var(--font-display);
+  font-size: clamp(2.2rem, 5vw, 3.5rem);
+  font-weight: 900;
+  color: var(--color-ink);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+}
+
+.amf__meta {
+  font-size: var(--text-xs);
+  color: var(--color-ink-faint);
+  margin-top: var(--space-1);
+}
+
+/* ─── Body ──────────────────────────────────────────────────── */
+.amf__body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-10);
+}
+
+.amf__section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.amf__section-title {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-ink);
+}
+
+.amf__section p {
+  font-size: var(--text-sm);
+  color: var(--color-ink-muted);
+  line-height: 1.85;
+}
+
+.amf__section strong {
+  color: var(--color-ink);
+  font-weight: 600;
+}
+
+.amf__list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding-left: var(--space-4);
+}
+
+.amf__list li {
+  font-size: var(--text-sm);
+  color: var(--color-ink-muted);
+  line-height: 1.75;
+}
+
+/* ─── Footer CTA ─────────────────────────────────────────────── */
+.amf__footer {
+  padding-top: var(--space-8);
+  border-top: 1px solid var(--color-separator);
+  display: flex;
+  justify-content: center;
+}
+
+/* ─── Responsive ────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .amf__inner {
+    padding-inline: var(--space-4);
+  }
+}

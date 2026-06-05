@@ -1,0 +1,117 @@
+.confirmed {
+  min-height: 100vh;
+  background: var(--color-bg);
+  padding-top: var(--nav-height);
+  padding-bottom: var(--space-24);
+  padding-inline: var(--space-6);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.confirmed__inner {
+  margin-top: var(--space-16);
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-8);
+}
+
+/* ─── Icon ──────────────────────────────────────────────────── */
+.confirmed__icon {
+  color: var(--color-accent);
+}
+
+/* ─── Heading ───────────────────────────────────────────────── */
+.confirmed__heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+.confirmed__headline {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 900;
+  color: var(--color-ink);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.confirmed__subheadline {
+  font-size: var(--text-lg);
+  color: var(--color-ink-muted);
+}
+
+/* ─── Receipt ───────────────────────────────────────────────── */
+.confirmed__receipt {
+  width: 100%;
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.confirmed__receipt-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-4);
+  padding: var(--space-4) var(--space-6);
+  border-bottom: 1px solid var(--color-separator);
+}
+
+.confirmed__receipt-row:last-child {
+  border-bottom: none;
+}
+
+.confirmed__receipt-key {
+  font-size: var(--text-sm);
+  color: var(--color-ink-faint);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.confirmed__receipt-val {
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-ink);
+  text-align: right;
+}
+
+.confirmed__txn-id {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: var(--text-xs);
+  letter-spacing: 0.08em;
+  color: var(--color-ink-muted);
+}
+
+/* ─── Body ──────────────────────────────────────────────────── */
+.confirmed__body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  text-align: center;
+}
+
+.confirmed__body p {
+  font-size: var(--text-sm);
+  color: var(--color-ink-muted);
+  line-height: 1.8;
+}
+
+.confirmed__address-note {
+  font-size: var(--text-xs) !important;
+  color: var(--color-ink-faint) !important;
+  font-style: italic;
+}
+
+/* ─── CTA ───────────────────────────────────────────────────── */
+.confirmed__cta {
+  width: 100%;
+  justify-content: center;
+}

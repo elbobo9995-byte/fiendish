@@ -1,0 +1,136 @@
+.banned {
+  min-height: 100vh;
+  background: var(--color-bg);
+  padding-top: var(--nav-height);
+  padding-bottom: var(--space-24);
+  padding-inline: var(--space-6);
+}
+
+.banned__inner {
+  max-width: 640px;
+  margin-inline: auto;
+  margin-top: var(--space-10);
+  padding: var(--space-16) var(--space-12);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-8);
+  background: var(--color-card);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-md);
+  text-align: center;
+}
+
+/* ─── Icon ──────────────────────────────────────────────────── */
+.banned__icon {
+  color: var(--color-accent);
+}
+
+/* ─── Heading ───────────────────────────────────────────────── */
+.banned__heading {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.banned__eyebrow {
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.banned__headline {
+  font-family: var(--font-display);
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-weight: 900;
+  color: var(--color-ink);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.banned__subheadline {
+  font-size: var(--text-sm);
+  color: var(--color-ink-muted);
+  line-height: 1.75;
+  max-width: 480px;
+}
+
+/* ─── Notice Block ──────────────────────────────────────────── */
+.banned__notice {
+  width: 100%;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-8) var(--space-8);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  text-align: left;
+}
+
+.banned__notice p {
+  font-size: var(--text-sm);
+  color: var(--color-ink-muted);
+  line-height: 1.85;
+}
+
+.banned__notice-salutation {
+  font-weight: 600;
+  color: var(--color-ink) !important;
+}
+
+.banned__notice-emphasis {
+  font-weight: 700;
+  color: var(--color-ink) !important;
+}
+
+.banned__notice-footer {
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--color-separator);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.banned__signed {
+  font-size: var(--text-sm) !important;
+  font-weight: 600;
+  color: var(--color-ink) !important;
+}
+
+.banned__date {
+  font-size: var(--text-xs) !important;
+  color: var(--color-ink-faint) !important;
+}
+
+/* ─── Footnote ──────────────────────────────────────────────── */
+.banned__footnote {
+  width: 100%;
+  padding-top: var(--space-2);
+  border-top: 1px solid var(--color-separator);
+}
+
+.banned__footnote p {
+  font-size: var(--text-xs);
+  color: var(--color-ink-faint);
+  line-height: 1.75;
+  font-style: italic;
+}
+
+/* ─── Back button ───────────────────────────────────────────── */
+.banned__back {
+  min-width: 180px;
+}
+
+/* ─── Responsive ────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .banned__inner {
+    padding: var(--space-10) var(--space-5);
+    border-radius: var(--radius-lg);
+  }
+
+  .banned__notice {
+    padding: var(--space-6) var(--space-5);
+  }
+}

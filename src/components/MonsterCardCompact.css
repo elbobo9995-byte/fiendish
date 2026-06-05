@@ -1,0 +1,118 @@
+.mcc {
+  background: var(--color-card);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.mcc:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* ─── Photo ─────────────────────────────────────────────────── */
+.mcc__photo {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.mcc__photo-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Status dot */
+.mcc__status {
+  position: absolute;
+  top: var(--space-3);
+  right: var(--space-3);
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  border: 2px solid var(--color-white);
+  z-index: 2;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+.mcc__status--online {
+  background: #22c55e;
+}
+
+.mcc__status--offline {
+  background: #9ca3af;
+}
+
+/* Scrim + identity overlay */
+.mcc__scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    transparent 45%,
+    rgba(0, 0, 0, 0.18) 68%,
+    rgba(0, 0, 0, 0.72) 100%
+  );
+}
+
+.mcc__identity {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-4) var(--space-4) var(--space-4);
+  z-index: 1;
+  line-height: 1.15;
+}
+
+.mcc__name {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 700;
+  color: var(--color-white);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+  letter-spacing: -0.01em;
+}
+
+.mcc__age {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.88);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* ─── CTA ───────────────────────────────────────────────────── */
+.mcc__cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0.85rem var(--space-4);
+  background: var(--color-accent);
+  color: var(--color-white);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  transition: background-color var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.mcc__cta:hover {
+  background: var(--color-accent-hover);
+}
+
+.mcc__cta:active {
+  background: var(--color-accent-hover);
+  opacity: 0.9;
+}
