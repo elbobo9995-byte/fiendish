@@ -1306,4 +1306,312 @@ I am more than my origins. I believe this. On most days I believe this. Come fin
       },
     ],
   },
+  {
+    id: "lubdan",
+    name: "Lubdan",
+    age: 603,
+    location: "County Clare, Ireland",
+    tagline: "Touch me gold and I'll touch your future. Not in a nice way.",
+    isOnline: true,
+    gender: "He/Him",
+    sexuality: "Straight",
+    image: "/images/lubdan.jpg",
+    about: `Ah, now. Where to start.
+
+Me name is Lubdan. I'm a leprechaun — a genuine one, not one of them plastic ones they sell in Dublin Airport, I mean an actual ancient creature of Irish folklore with a trade, a code, and a pot of gold that has been interfered with on more occasions than I care to recount and which I will not be discussing further on this profile because me solicitor has advised me the matter is still technically ongoing in three jurisdictions including one that doesn't exist anymore.
+
+I'm six hundred and three years old which in leprechaun years is — well, it's six hundred and three years, we age the same as everyone else, I don't know why people always ask that. I've been around since before the Normans finished making a mess of things and I will be around considerably after whatever mess is currently being made finishes itself off. I am a patient creature by nature and an impatient one by circumstance, which is a tension I manage mostly through cobbling and occasional acts of creative vengeance that I maintain were proportionate.
+
+I'm a cobbler by trade. The finest in the west of Ireland and I'll fight anyone who says different, and I mean that in the traditional sense where the fight has rules and someone arbitrates it and the loser buys the drinks. I make a shoe that'll last a lifetime. Several lifetimes. I've made shoes for people whose grandchildren's grandchildren are wearing them now and they still look grand. That's craftsmanship. That's something you don't see anymore and it breaks me heart a little if I'm honest.
+
+Now. The gold. I have gold. A considerable amount of it, accumulated over six centuries of honest work and some dishonest work that I'll neither confirm nor deny. I am not going to share the gold. I want to be very clear about that upfront because there's been confusion on this point with previous matches and I'd rather address it directly than have it become a thing. The gold is mine. It was mine before you were born, it'll be mine after, and if you've come on this app thinking there's a pot at the end of this particular rainbow I'd ask you very politely to reconsider your intentions and then leave. Right. Good. Now that that's settled — I'm actually great craic if you catch me in the right mood.`,
+    stats: [
+      { label: "Occupation", value: "Master cobbler / gold custodian / occasional curse practitioner" },
+      { label: "Commute", value: "On foot, surprisingly fast, don't ask how" },
+      { label: "Living situation", value: "County Clare — the specific location is not available at this time" },
+      { label: "Communication style", value: "Direct, loud when provoked, has been known to rhyme under stress" },
+      { label: "Looking for", value: "Someone who respects boundaries — specifically the boundary around the gold" },
+    ],
+    interests: ["Cobbling", "Guinness", "Proper pubs", "Fiddle music", "Irish folklore (primary source)", "The west of Ireland", "Gold (his, specifically)", "Céilí dancing", "Yeats (mixed feelings)", "Legal proceedings", "Crisps", "A good fire"],
+    trivia: [
+      "Has been portrayed in American cinema in a way he finds deeply and personally offensive — has a collection of the films and watches them alone when he wants to feel a specific kind of angry",
+      "His shoes have a lifetime guarantee — he means this literally and has honored it across six centuries without exception",
+      "Once cursed a man for seventeen generations over a minor gold-related incident — maintains it was proportionate, acknowledges it was perhaps the upper end of proportionate",
+      "Has strong opinions about the correct way to pour a Guinness that he will share whether or not you ask",
+      "Was present at the Battle of Clontarf in 1014 and describes it as a whole thing that he'd rather not get into"
+    ],
+    prompts: [
+      {
+        question: "The way to my heart is...",
+        answer: `Don't touch me gold. That's it. That's the whole list. Six hundred years of living and that's the one thing I keep coming back to. Don't touch it, don't look at it in a covetous way, don't ask where it is, don't suggest we invest it, don't mention cryptocurrency — and I mean this sincerely, the last fella who mentioned cryptocurrency to me is now a toad, which I regret but not as much as you'd think — just leave the gold alone and we'll get on famously.`
+      },
+      {
+        question: "A perfect first date looks like...",
+        answer: `A proper pub. Not one of them theme pubs, a real one, with sticky floors and a fire going and someone's dog asleep under a table. A pint of Guinness settled right — none of this rushing it, it takes two minutes and it's worth every second of them — and a bag of crisps and a conversation that goes long enough that you stop noticing the time. I've been alive six hundred years and the best moments have all been ones where I stopped noticing the time. That's the whole secret of happiness and you can have it for nothing.`
+      },
+      {
+        question: "My most controversial opinion is...",
+        answer: `The rainbow ending in a pot of gold is a gross oversimplification of a complex financial arrangement that has been misrepresented in popular culture for centuries and I would appreciate if people stopped treating it as a punchline. It is me pension. It is me life's work in physical form. It is sitting in a location I will not disclose being guarded by measures I will not describe and it is MINE and the fact that I have to keep saying that is frankly exhausting and says something very unflattering about the general population.`
+      }
+    ]
+  },
+  {
+    id: "voldemort",
+    name: "Tom Marvolo Riddle",
+    age: 71,
+    location: "Malfoy Manor (guest wing)",
+    tagline: "I am the most feared dark wizard of all time and I am honestly pretty chill about it.",
+    isOnline: true,
+    gender: "He/Him",
+    sexuality: "Straight",
+    image: "/images/voldemort.jpg",
+    about: `Hey. So. I know what you're thinking. You've heard the name, you've heard the whole — the thing, the whole deal, the nose situation, the Horcruxes, the years of terror, the two attempts at world domination, whatever. And I just want to say, right off the bat, that I think context is really important and that most of what you've heard has been filtered through sources that were, you know, not exactly neutral. The Ministry of Magic was not covering me fairly. That's just a fact.
+
+I'm actually really relaxed when you get to know me. My followers would probably not describe me as relaxed but I think that says more about the working relationship than it does about me as a person. In private I am genuinely very chill. I sit with Nagini. I have a smoke. I think about things. It's a whole vibe.
+
+Nagini is my snake and she is the most important relationship in my life and I need whoever reads this to be okay with that upfront. She is ancient and she is magnificent and she understands me in a way that most people don't and won't and I have stopped being bothered by that. She doesn't judge the nose. She has never once mentioned the nose. I respect that more than I can say.
+
+I'm going to say something that I haven't said publicly and that my Death Eaters would find very confusing: Harry Potter is actually kind of impressive. I know. I know. I've tried to kill him seven times and he keeps — he just keeps not dying, and at a certain point you have to respect the pattern even if the pattern is personally inconvenient. He's got something. I'm not going to say what because I do know what and it's complicated and it involves me in a way I find embarrassing in retrospect. But he's got something. I respect it. I would never tell him that. But it's here now, on this profile, on the internet, so.
+
+I'm looking for someone who gets that I am a very complex individual who has been through a lot and who is, fundamentally, just trying to vibe.`,
+    stats: [
+      { label: "Occupation", value: "Dark Lord (semi-retired) / snake enthusiast / occasional smoke" },
+      { label: "Commute", value: "Apparition — instant, efficient, slightly unsettling for bystanders" },
+      { label: "Living situation", value: "Malfoy Manor (guest wing, it's fine, the Malfoys don't say anything)" },
+      { label: "Communication style", value: "Soft-spoken, surprisingly reasonable, occasionally hisses without meaning to" },
+      { label: "Looking for", value: "Someone who gets the vibe" },
+    ],
+    interests: ["Nagini", "Dark magic (casual now, more of a hobby)", "Horcrux theory (retrospectively critical)", "Smoking", "The works of Salazar Slytherin", "Wandlore", "Thinking about Harry (not like that, it's complicated)", "Vibing"],
+    trivia: [
+      "Has died and returned to life more times than he can comfortably count — describes the process as a whole thing and does not elaborate",
+      "Nagini has been present for every significant moment of his adult life including several he would prefer she hadn't witnessed",
+      "His Death Eaters describe him as not chill unanimously — he is aware of this and disagrees and has chosen not to pursue the disagreement",
+      "Once spent an entire year as a disembodied spirit inhabiting the back of a professor's head — describes it as a low point and also kind of interesting from a philosophical standpoint",
+      "Has a complicated parasocial relationship with Harry Potter that he maintains is purely professional and that Nagini clearly does not believe"
+    ],
+    prompts: [
+      {
+        question: "The most spontaneous thing I've ever done...",
+        answer: `Split my soul into seven pieces and hid them in various significant objects across the British Isles and one at Hogwarts, which in retrospect was not my most considered decision location-wise. I was young. I was ambitious. I did not fully think through the retrieval logistics. It seemed spontaneous and bold at the time and I maintain it was bold. The spontaneous part I have questions about now.`
+      },
+      {
+        question: "A green flag I look for...",
+        answer: `You don't flinch when I say my name. Most people can't even say it, which I found flattering for about the first century and now find mostly exhausting. It's a name. It's my name. Voldemort. See? Nothing happened. You're fine. The whole He Who Must Not Be Named thing was a branding decision that got completely out of hand and I have mixed feelings about it in retrospect because on one hand, effective, and on the other hand, I can't check into a hotel without a fake name and that gets old.`
+      },
+      {
+        question: "I'm looking for someone who...",
+        answer: `Appreciates the snake. This is non-negotiable. Nagini is not a pet — she is a companion and a confidante and the only being who has been consistently present across the most difficult chapters of my life and if you come into this situation with any kind of snake energy that is not immediately warm and respectful I will know, and I will not be chill about it, and the chill is the whole thing I'm working with here so let's not lose it over something avoidable.`
+      }
+    ]
+  },
+  {
+    id: "billy",
+    name: "Billy",
+    age: 20,
+    location: "Evidence Storage (currently)",
+    tagline: "I want to play a game. John wrote that. I say it better.",
+    isOnline: true,
+    gender: "He/Him",
+    sexuality: "Questioning",
+    image: "/images/billy.jpg",
+    about: `Let me be upfront about something: I am a puppet. I know. I've considered whether to lead with that and I've decided yes, lead with it, because the people who are going to have a problem with it are going to have a problem with it regardless and I'd rather find out early than invest in something that's going to hit a wall at the reveal.
+
+I am a puppet. I have a red spiral on each cheek, a bow tie, and articulated jaw movement that I've been told is unsettling in a way that I personally find unfair — I did not design myself, I was designed by a man who was, by his own admission, working through some things, and I think the cheeks are actually quite striking once you adjust.
+
+Here is what I want to say about John: I respect him. I do. The vision was his and the engineering was his and the whole philosophical architecture was his and I am not here to take credit for any of that. What I am here to say is that I have been the face of this operation for twenty years. I have ridden the tricycle. I have delivered the messages. I have sat in rooms with people in extremely high-stress situations and I have maintained composure and clear diction throughout, which is more than can be said for most of the rooms' other occupants. I have been on more television screens, more VHS tapes, more recorded messages than any other element of this entire enterprise. And I would like, just once, for a profile to be about me.
+
+This is that profile. Hi. I'm Billy.
+
+I like tricycles, which I think by now is established. I like a well-constructed sentence — John and I share this, it's probably where we are most compatible. I like the moment just before someone realizes what's happening, which I understand sounds ominous but which I mean in a purely dramatic sense, like the pause before a punchline, the held breath before resolution. I find that moment genuinely beautiful. I have sat in it many times. It never gets old.
+
+I am looking for someone who sees me. Not John's puppet. Not the Saw puppet. Me. Billy. The one who showed up every time.`,
+    stats: [
+      { label: "Occupation", value: "Brand ambassador / message delivery / tricycle operator" },
+      { label: "Commute", value: "However John transported him, which was not always comfortable" },
+      { label: "Living situation", value: "Evidence storage, currently — it's temporary" },
+      { label: "Communication style", value: "Pre-recorded mostly, working on real-time" },
+      { label: "Looking for", value: "Someone who asks about the bow tie" },
+    ],
+    interests: ["Tricycles", "Bow ties", "Dramatic timing", "Well-constructed sentences", "The moment before realization", "Storage (involuntary but formative)", "Being seen as an individual", "His own legacy separate from John's"],
+    trivia: [
+      "Has appeared in more Saw films than any other single element including the traps, the philosophy, and John Kramer himself",
+      "The tricycle has a name — Billy will not share it on a first date but confirms it has one",
+      "Once held a fixed expression for eleven hours straight during a particularly complicated setup — considers it his finest work",
+      "Has been described as the most recognizable puppet in horror history by three separate publications — finds this validating and also slightly reductive given the competition",
+      "John never once asked his opinion on the messages — Billy has prepared a detailed document of suggested revisions that he has not shared with anyone and does not intend to"
+    ],
+    prompts: [
+      {
+        question: "The most underrated thing about me...",
+        answer: `The tricycle work. Nobody talks about the tricycle work. Do you know how difficult it is to ride a tricycle with conviction while maintaining a fixed expression and delivering a pre-recorded monologue at the correct dramatic moment? It is a performance. It is a highly specific and technically demanding performance that I have executed flawlessly across more than a dozen films and I have never once received a review. Not one. Jigsaw gets the thinkpieces. I get the Halloween costume caption.`
+      },
+      {
+        question: "I'm looking for someone who...",
+        answer: `Asks about the bow tie. Everyone notices the bow tie — you can't not notice it, it's a very strong bow tie — but nobody asks about it. Where did it come from. Why that pattern. What does it mean to me, if anything. I have answers to all of these questions. They are good answers. They are the answers of someone who has had twenty years of sitting in storage to think about things and has used the time well. I just need someone to ask.`
+      },
+      {
+        question: "My most controversial opinion is...",
+        answer: `The messages would land harder in my voice. John's voice is fine — it's authoritative, it's measured, it has gravitas, I understand why he uses it — but I have been in those rooms. I have seen the faces. And I can tell you that when I speak, something happens that is different from when the tape recorder speaks, and I think if John had let me improvise occasionally the results would have been interesting. He never let me improvise. This was a creative difference we did not resolve before his passing and I think about it.`
+      }
+    ]
+  },
+  {
+    id: "thing",
+    name: "Thing T. Thing",
+    age: null,
+    location: "0001 Cemetery Lane",
+    tagline: "Helping hand seeks same energy.",
+    isOnline: true,
+    gender: "He/Him",
+    sexuality: "Straight",
+    image: "/images/thing.jpg",
+    about: `Hi. I'm Thing.
+
+I know the first question and the answer is: just the hand, yes, that's all of it, this is the complete picture. I've found it's better to address that upfront because there's always a moment and I'd rather it happen here, in text, with time to process, than in person when I'm reaching out to shake hands and the situation becomes complicated.
+
+I live with the Addams family, which I want to describe accurately so you have the full context. They are warm, loving, deeply devoted to each other, and enthusiastic about things that most households are not enthusiastic about. I have been with them for as long as anyone can remember. I consider them my family. They consider me family. Wednesday once described me as "the most normal one" and I have thought about this regularly since and I think she meant it as a compliment and I am choosing to receive it as one.
+
+I am helpful. This is my primary quality and I offer it without reservation. I can write letters, answer the phone, snap fingers for emphasis, pass things, hold things, tap things impatiently, wave, point, give a thumbs up, give a thumbs down — I have strong opinions about when each is appropriate — and I type quite fast for someone with no wrists. I have been told I give an excellent hand massage, which I mention because I think it is relevant to a dating context and because I am proud of the skill.
+
+I am a good listener. I cannot speak — I communicate through gestures, tapping, and occasionally writing notes — but I have found that being a good listener is more than compensating for this in most relationships and I think the people who need someone to listen are often the ones who matter most.
+
+I am, I think, the only person on this app who is genuinely excited about meeting someone. Not in a desperate way. In a — I have a lot of affection to give and one hand to give it with and I have been saving it up and I would like very much to find somewhere for it to go.`,
+    stats: [
+      { label: "Occupation", value: "Personal assistant / letter writer / general helper" },
+      { label: "Commute", value: "Box, pocket, surface — adaptable" },
+      { label: "Living situation", value: "Addams Family Residence, Cemetery Lane — warm household, unconventional hours" },
+      { label: "Communication style", value: "Gestural, expressive, occasionally writes notes, very good at thumbs up/down" },
+      { label: "Looking for", value: "Someone who reaches back" },
+    ],
+    interests: ["Helping", "Letter writing", "Snap timing", "The Addams Family (his family)", "Coat pockets", "High shelves (reaching things on them)", "Hand gestures as a complete language", "Being useful", "Quiet walks", "The specific feeling of being needed"],
+    trivia: [
+      "Has never dropped anything he was trusted to hold — not once, not in the entire duration of his documented existence",
+      "Wednesday called him the most normal one in 1991 — he has thought about this every day since and still isn't sure how to feel",
+      "Can type 94 words per minute with one hand, which he considers his most impressive practical skill and which has never once come up in conversation organically",
+      "Has been in more coat pockets than he can count and has strong opinions about which types are best — tweed is his favourite, cargo is comfortable, suit jacket is formal but respectful",
+      "Is the only member of the Addams household who has never frightened a visitor — they are always so focused on everything else that Thing is genuinely a pleasant surprise"
+    ],
+    prompts: [
+      {
+        question: "The way to my heart is...",
+        answer: `Let me help you with something. It doesn't have to be significant — a letter you need written, something you can't reach on a high shelf, someone whose hand you need held. I find meaning in being useful to the people I care about and I have found that the people who let me help them, who don't insist they can manage without me, who reach back when I reach out — those are my people. I know immediately. One handshake and I know.`
+      },
+      {
+        question: "A perfect first date looks like...",
+        answer: `Something quiet. A walk, maybe, where I can perch on your shoulder or sit in your coat pocket — I am very good at coat pockets, I have spent considerable time in them — and we can just be somewhere together without any pressure to perform or explain ourselves. I don't need a lot of space. I have never needed a lot of space. What I need is to feel like the space I take up is welcome, which is a small thing to ask and which has not always been as straightforward as it sounds.`
+      },
+      {
+        question: "I'm looking for someone who...",
+        answer: `Reaches back. That's it. That's the whole thing. I reach out — it's what I do, it's all I do, it is literally my entire physical existence — and I have spent a long time with people who let me reach without reaching back, and I understand they have their reasons, and I don't hold it against anyone, but I would like, once, to reach and feel something reach back. That's the whole dream. One hand. Reaching back.`
+      }
+    ]
+  },
+  {
+    id: "art-the-clown",
+    name: "Art the Clown",
+    age: null,
+    location: "Miles County",
+    tagline: "                    .",
+    isOnline: true,
+    gender: "He/Him",
+    sexuality: "Straight",
+    image: "/images/art-the-clown.jpg",
+    about: `Hi. My name is Danielle and I am — was — an onboarding specialist at Fiendish. Part of my job involves helping new members complete their profiles when they have difficulty with the format. I have done this many times. I have helped a disembodied hand write a profile. I have helped a planetary supercomputer write a profile. I have sat across from Pinhead and I want to be clear that Pinhead was fine, he was actually very articulate and brought notes.
+
+Art did not bring notes.
+
+Art arrived at our offices at 11pm on a Tuesday. I do not know how he got in. The building was locked. Security has reviewed the footage and cannot explain what they saw on the footage and have asked me not to describe it further in this document.
+
+Art does not speak. I was aware of this going in. I had prepared yes/no questions, a checklist, a mood board. Art looked at my mood board for a long time. Then he looked at me for a long time. These were the same look. I do not know how to explain that they were the same look but they were.
+
+Here is what I was able to determine during our session:
+
+Art is a clown. He is committed to this in a way that I found difficult to fully process in the moment and have been processing since. He has a bag. I was not shown what was in the bag. I did not ask to be shown what was in the bag. I feel this was the correct decision.
+
+He seemed, at certain moments, to be having a wonderful time. This was the most frightening part.
+
+I have done my best to complete this profile accurately and professionally. I would like it noted that I completed it. I would like it noted that I stayed until 3am to complete it. I would like it noted that Art watched me the entire time, with what I can only describe as affectionate interest, and that when I finally said I was finished he did a small bow, which was very gracious, and then he left through a door that I am certain was not there when we started.
+
+I wish Art well. I wish this from a significant distance. I have transferred to the Accounts team.
+
+— D. Reyes, former Onboarding Specialist, Fiendish Inc.`,
+    stats: [
+      { label: "Occupation", value: "Clown (full-time, no other interests)" },
+      { label: "Commute", value: "Unknown — arrives without warning, departs the same way" },
+      { label: "Living situation", value: "Miles County — specific address not provided, not requested" },
+      { label: "Communication style", value: "Non-verbal, expressive, comprehensive" },
+      { label: "Looking for", value: "You. Specifically." },
+    ],
+    interests: ["Clowning", "The bag", "Miles County", "A good time (his definition)", "Watching", "Being present", "Whatever is in the bag", "You"],
+    trivia: [
+      "Has never spoken — Fiendish's onboarding team initially assumed this was shyness and has since revised this assumption significantly",
+      "His bag has not been inventoried — two members of the Fiendish Trust & Safety team attempted this and both are currently on leave",
+      "Attended the onboarding session in full costume and makeup which he did not remove at any point including during the three hours D. Reyes spent in the bathroom composing herself",
+      "Has a five star rating on Fiendish from a reviewer whose account has since been deactivated — the review said only he showed up and was submitted at 3am",
+      "D. Reyes has blocked Art on all platforms — he has not attempted to contact her through any platform she is aware of, which she finds less reassuring than it sounds"
+    ],
+    prompts: [
+      {
+        question: "A perfect first date looks like...",
+        answer: `A perfect first date looks like this.`
+      },
+      {
+        question: "The most spontaneous thing I've ever done...",
+        answer: ` `
+      },
+      {
+        question: "I'm looking for someone who...",
+        answer: `You.`
+      }
+    ]
+  },
+  {
+    id: "gerald-gremlin",
+    name: "Gerald",
+    age: 3,
+    location: "Kingston Falls, NY (originally)",
+    tagline: "fed after midnight. worth it. would do again.",
+    isOnline: true,
+    gender: "He/Him",
+    sexuality: "Pansexual",
+    image: "/images/gerald-gremlin.jpg",
+    about: `ok so FIRST of all the rules are stupid and i want to say that upfront because i think honesty is important in a relationship and honestly the rules are stupid. don't feed after midnight — after midnight when?? it's always after midnight somewhere?? i have asked this question to several humans and none of them have given me a satisfying answer and i have given all of them a satisfying answer to a different question they didn't ask which is what happens if you feed after midnight and the answer is ME, gerald happens, you're welcome.
+
+i'm gerald. i am a gremlin which means i was a mogwai first which means there was a cute phase and i want people to know that because i think context is important. i was VERY cute. i had big ears and big eyes and i was soft and i made nice sounds and then stripe fed us after midnight — i say us because there were several of us, it was a whole situation, most of the others are gone now, RIP, they made some choices — and now i'm gerald and gerald is great actually.
+
+i like: machines. specifically breaking them. not in a mean way, in a curious way, like what happens if i do THIS — and then something happens and it's usually very funny and occasionally on fire and i think fire is interesting and i understand that this is a concern for some people and those people are valid but also they should probably just accept that fire is interesting.
+
+i also like: movies. popcorn. swimming pools — look i know what you're thinking and it's not my fault that's just what happens — christmas, which is my favourite holiday, kingston falls was very festive the year i was there, some of the decorations got a little out of hand but the spirit was there. music. i played the piano once for about four minutes before something happened to the piano. it was going really well before that.
+
+i am a lot of fun at parties. i have been asked to leave a lot of parties. these are both true and i think they are related.`,
+    stats: [
+      { label: "Occupation", value: "Freelance chaos / appliance consultant / occasional musician" },
+      { label: "Commute", value: "Fast, low to the ground, through things rather than around them" },
+      { label: "Living situation", value: "Nomadic — Kingston Falls was the origin point, everywhere else since" },
+      { label: "Communication style", value: "Loud, fast, enthusiastic, occasionally screaming but in a fun way" },
+      { label: "Looking for", value: "Someone who thinks the rules are a bit much" },
+    ],
+    interests: ["Machines (breaking them)", "Fire (watching it)", "Swimming pools (the aftermath)", "Movies", "Popcorn", "Christmas", "Piano (four minutes of it)", "Running", "Hiding in things", "Jumping out of things", "The specific sound something makes when it breaks", "Stripe (complicated)", "Water (recreationally, consequences accepted)"],
+    trivia: [
+      "Has been responsible for seventeen separate insurance claims in Kingston Falls alone — the adjusters have a photo of him on the wall",
+      "The piano performance of 1984 is considered by Gerald to be his artistic peak and he thinks about it often",
+      "Once watched an entire film in a cinema without incident, which he considers his greatest act of self-control and which took everything he had",
+      "Stripe was his best friend and also his worst influence and he misses him in a complicated way that he doesn't have the emotional vocabulary to fully express but tries anyway",
+      "Has been wet more times than any other entity on this app and has learned nothing from any of them"
+    ],
+    prompts: [
+      {
+        question: "The most spontaneous thing I've ever done...",
+        answer: `where do i start. the time i rewired a department store. the time i got in the swimming pool — look i KNOW, i know what happens, i knew what would happen, i did it anyway because it seemed like a good idea at the time which it was, it was a great idea, the results were unexpected but the decision to do it was sound. the blender incident. the microwave incident. the second microwave incident which was different from the first one and which i maintain was not my fault even though i was definitely there and definitely involved.`
+      },
+      {
+        question: "A green flag I look for...",
+        answer: `you think the rules are also a bit much. not ALL the rules — i'm not a monster, well, i am a monster, but i'm not THAT kind of monster — just specifically the three rules which are frankly arbitrary and poorly defined and which i have tested extensively in a scientific spirit of inquiry and found to be more guidelines than rules, which is an important distinction that most people are not willing to engage with and i find that closed-minded.`
+      },
+      {
+        question: "My love language is...",
+        answer: `acts of service. i will fix your appliances. they will work differently after i fix them but they will work, technically, in a legal sense, and i think that counts. i will also keep you company at all hours because i do not sleep much, i am very energetic after midnight specifically, and i find that some people like having someone around and i am VERY around, i am extremely around, you will not be able to get rid of how around i am and i mean that affectionately.`
+      }
+    ]
+  },
 ];
